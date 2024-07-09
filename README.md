@@ -174,4 +174,4 @@ function salutare() {
 }
 ```
 
-Acest proiect demonstrativ combina elementele de baza ale HTML, CSS si JavaScript pentru a crea o pagina web personala simpla, dar functionala. Incurajeaza cursantii sa experimenteze cu codul, sa modifice stilurile si sa adauge noi functionalitati pentru a-si imbunatati intelegerea si abilitatile.
+Acest proiect demonstrativ combina elementele de baza ale HTML, CSS si JavaScript pentru a crea o pagina web personala simpla, dar functionala. 
